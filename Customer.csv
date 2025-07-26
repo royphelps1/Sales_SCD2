@@ -1,0 +1,21 @@
+CustomerKey,CompanyName,StreetAddress,City,State,Zip,Balance
+1,Company A,350 Main St,Seattle,NY,13278,4506
+2,Company B,189 Main St,Chicago,IL,23434,8935
+3,Company C,195 Main St,Miami,TX,14165,488
+4,Company D,127 Main St,Chicago,IL,76237,9863
+5,Company E,529 Main St,Miami,IL,95181,8928
+6,Company F,928 Main St,Chicago,TX,87236,4557
+7,Company G,448 Main St,Boston,NY,30926,6924
+8,Company H,204 Main St,Los Angeles,IL,38221,5514
+9,Company I,967 Main St,New York,TX,22676,5881
+10,Company J,847 Main St,Los Angeles,FL,44671,711
+11,Company K,180 Main St,Dallas,FL,26361,6201
+12,Company L,691 Main St,Miami,CA,92397,5925
+13,Company M,777 Main St,Chicago,WA,19116,750
+14,Company N,975 Main St,Chicago,MA,47930,1307
+15,Company O,384 Main St,Chicago,MA,23238,6227
+16,Company P,479 Main St,Dallas,WA,57819,2664
+17,Company Q,818 Main St,Los Angeles,IL,97841,4374
+18,Company R,750 Main St,Seattle,WA,19358,9980
+19,Company S,573 Main St,Chicago,FL,42087,2677
+20,Company T,324 Main St,Dallas,CA,93886,9125

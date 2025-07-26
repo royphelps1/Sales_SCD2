@@ -1,0 +1,11 @@
+ProductKey,ProductName,Manufacturer,PricePerUnit,Status
+1,Widget,Umbrella,12.73,Inactive
+2,Gadget,Initech,81.02,Active
+3,Doohickey,Initech,28.96,Active
+4,Thingamajig,Umbrella,71.79,Active
+5,Whatchamacallit,Umbrella,21.16,Active
+6,Contraption,Umbrella,99.06,Inactive
+7,Gizmo,Acme Corp,69.99,Inactive
+8,Device,Globex,88.94,Inactive
+9,Apparatus,Globex,33.6,Inactive
+10,Mechanism,Acme Corp,24.65,Inactive
